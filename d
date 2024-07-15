@@ -1,0 +1,13 @@
+user.name=ahmetse12
+user.email=ahmeteminsecilmis@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.upstream.url=https://github.com/ahmetse12/python-refresher.git
+remote.upstream.fetch=+refs/heads/*:refs/remotes/upstream/*
+branch.main.remote=origin
+branch.main.vscode-merge-base=origin/main
+branch.main.merge=refs/heads/main
+remote.origin.url=https://github.com/ahmetse12/python-refresher.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
